@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Actions</key>
+  <array>
+    <dict>
+      <key>Image File</key>
+      <string>choosy.png</string>
+      <key>Shell Script File</key>
+      <string>choosy.sh</string>
+      <key>Title</key>
+      <string>Choosy</string>
+    </dict>
+  </array>
+  <key>Extension Identifier</key>
+  <string>com.choosyosx.popclip</string>
+  <key>Extension Name</key>
+  <string>Choosy</string>
+  <key>Required Software Version</key>
+  <integer>1459</integer>
+  <key>Requirements</key>
+  <array>
+    <string>httpurl</string>
+  </array>
+</dict>
+</plist>
